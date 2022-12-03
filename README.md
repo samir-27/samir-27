@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Samir Sumra</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A BCA Student</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1670069475~exp=1670070075~hmac=fa01fc5084e1fdf51f02e1eae18305d921860a75d0697b23153e98ba24ebfa2d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samir-27&label=Profile%20views&color=0e75b6&style=flat" alt="samir-27" /> </p>
 
