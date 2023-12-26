@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi there! 👋 I'm Samir
 
-<!--
-**samir-27/samir-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN Stack learner and BCA student at Shree Swaminarayan College of Computer Science, focused on mastering full-stack web development to create dynamic and intuitive applications.
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On: Blog Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+
+- React
+- JavaScript (JS)
+- HTML
+- CSS
+- Tailwind CSS
+- jQuery
+- Bootstrap
+- Node.js
+- Express
+
+### Connect with Me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samir-27) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samir-sumara-863347247/)
+
+---
+
+### GitHub Statistics:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samir-27&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samir-27&show_icons=true&count_private=true&theme=radical)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=samir-27&theme=radical)
