@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Samir+Sumara;MCA+Student+%40+MSU+Baroda;Web+Developer+in+the+Making;React+%7C+Node+%7C+MongoDB" alt="Typing SVG" />
+</p>
 
-<!--
-**samir-27/samir-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MCA student at **Maharaja Sayajirao University (MSU), Baroda**  
+💻 Passionate **Web Developer** who loves building real-world projects  
+🚀 Focused on writing clean, scalable, and efficient code  
+🧠 Currently sharpening my skills in **SQL & Data Structures & Algorithms**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,python" /> </p>
+
+### 📚 Currently Learning
+
+📌 **DSA**
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
+</p>
